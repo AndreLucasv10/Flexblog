@@ -1,0 +1,28 @@
+html,
+body,
+h1,
+h2,
+h3,
+p,
+a,
+button,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+}
+
+html {
+  padding-bottom: 200px;
+}
+
+h1,
+ul,
+li,
+a {
+  list-style: none;
+  font-style: none;
+  text-decoration: none;
+}
