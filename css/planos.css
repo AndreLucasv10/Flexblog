@@ -1,0 +1,21 @@
+.planos-bg {
+  background: #f7f7f7;
+}
+
+.container-planos h1,
+p,
+li,
+ul {
+  color: black;
+}
+
+.container-planos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.flex-item {
+  flex: 1 1 260px;
+}
