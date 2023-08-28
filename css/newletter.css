@@ -57,3 +57,11 @@
   border: 0px;
   padding: 15px 10px;
 }
+
+.footer-bg {
+  background: #2c70ff;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #122ab2;
+  padding: 64px;
+}
